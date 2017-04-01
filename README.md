@@ -59,3 +59,6 @@ news.setTitle("2018年世界杯决赛");
 [吃水果](#fruit)
 
 [^footer1]: 这是一个测试，用来阐释注脚。
+
+MarkWord - 可发布博客的 Markdown编辑器 http://www.cnblogs.com/twzy/p/5697498.html
+----
