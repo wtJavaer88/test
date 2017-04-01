@@ -26,7 +26,7 @@ news.setTitle("2018年世界杯决赛");
 
 ![Markdown Pic](http://common.cnblogs.com/images/banner/banner-q-20170208.png, "flow on me.")
 
-二级菜单：我喜欢吃水果
+二级菜单：<span id="fruit">我喜欢吃水果</span>
 ------
 1. **桃子**
 2. *葡萄*
@@ -54,3 +54,8 @@ news.setTitle("2018年世界杯决赛");
 
 标签: NBA
 
+这是一个注脚测试[^footer1]
+
+[吃水果](#fruit)
+
+[^footer1]: 这是一个测试，用来阐释注脚。
